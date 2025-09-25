@@ -28,12 +28,14 @@ li {
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 10px;
+    height: 120px;
 }
 
 .side-right, .side-left {
     background-color: #fff;
     height: 100%;
     width: 100%;
+    border-radius: 20px;
 }
 /* .header{
     display: grid;
