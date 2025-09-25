@@ -18,11 +18,11 @@ li {
     width: 100%;
 }
 
-.nav{
+.nav {
     list-style: none;
     display:flex;
     flex-direction: inline;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 /* .header{
