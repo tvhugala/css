@@ -3,10 +3,10 @@
     --text-color: #000;
 }
 
-/* li {
+li {
     list-style: none;
     display:flex;
-    flex-direction: inline;
+    flex-direction: column;
     justify-content: space-evenly;
 
 }
@@ -15,9 +15,9 @@
     display:flex;
     flex-direction: inline;
     justify-content: space-evenly;
-} */
+}
 
-.header{
+/* .header{
     display: grid;
     grid-template-columns: repeat(2, 1fr) 1fr ;
-}
+} */
