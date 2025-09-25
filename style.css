@@ -21,7 +21,7 @@ li {
 .nav {
     list-style: none;
     display:flex;
-    flex-direction: inline;
+    /* flex-direction: inline; */
     justify-content: space-between;
 }
 
