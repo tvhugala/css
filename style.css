@@ -24,7 +24,15 @@ li {
     /* flex-direction: inline; */
     justify-content: space-between;
 }
+.side-side{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: gr0px
+}
 
+.side-right, .side-left {
+    background-color: #fff;
+}
 /* .header{
     display: grid;
     grid-template-columns: repeat(2, 1fr) 1fr ;
