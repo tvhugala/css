@@ -27,7 +27,7 @@ li {
 .side-side{
     display:grid;
     grid-template-columns: 1fr 1fr;
-    gap: gr0px
+    grid-column-gap: 10px;
 }
 
 .side-right, .side-left {
