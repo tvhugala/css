@@ -10,6 +10,14 @@ li {
     justify-content: space-evenly;
 
 }
+
+.header {
+    background-color: var(--nav);
+    text-transform: uppercase;
+    position: relative;
+    width: 100%;
+}
+
 .nav{
     list-style: none;
     display:flex;
