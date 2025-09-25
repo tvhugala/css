@@ -3,7 +3,7 @@
     --text-color: #000;
 }
 
-li {
+/* li {
     list-style: none;
     display:flex;
     flex-direction: inline;
@@ -15,4 +15,9 @@ li {
     display:flex;
     flex-direction: inline;
     justify-content: space-evenly;
+} */
+
+.header{
+    display: flex;
+    flex-direction: column;
 }
